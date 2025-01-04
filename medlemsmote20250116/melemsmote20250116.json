@@ -1,0 +1,216 @@
+{
+  "root": {
+    "type": "EmailLayout",
+    "data": {
+      "backdropColor": "#F5F5F5",
+      "canvasColor": "#FFFFFF",
+      "textColor": "#262626",
+      "fontFamily": "MODERN_SANS",
+      "childrenIds": [
+        "block-1720949447767",
+        "block-1720906276470",
+        "block-1725476117085",
+        "block-1736000689686",
+        "block-1720888846284",
+        "block-1730822782106"
+      ]
+    }
+  },
+  "block-1720888846284": {
+    "type": "Image",
+    "data": {
+      "style": {
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "right": 24,
+          "left": 24
+        }
+      },
+      "props": {
+        "url": "https://www.riksteatern.se/globalassets/lokal/riksteatern-skane/kavlinge-riksteaterforening/Alva_Marcus.jpg",
+        "alt": "Sample product",
+        "linkHref": null,
+        "contentAlignment": "middle"
+      }
+    }
+  },
+  "block-1720906276470": {
+    "type": "Image",
+    "data": {
+      "style": {
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "right": 24,
+          "left": 24
+        },
+        "backgroundColor": "#499cbf"
+      },
+      "props": {
+        "url": "https://www.riksteatern.se/globalassets/lokal/riksteatern-skane/kavlinge-riksteaterforening/RT_kavlinge_vit.png",
+        "alt": "Sample product",
+        "linkHref": null,
+        "contentAlignment": "middle"
+      }
+    }
+  },
+  "block-1720949447767": {
+    "type": "Text",
+    "data": {
+      "style": {
+        "fontSize": 27,
+        "fontWeight": "normal",
+        "textAlign": "center",
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "right": 24,
+          "left": 24
+        }
+      },
+      "props": {
+        "markdown": true,
+        "text": "Till medlemmar i Kävlinge Riksteaterförening."
+      }
+    }
+  },
+  "block-1725476117085": {
+    "type": "Text",
+    "data": {
+      "style": {
+        "fontSize": 21,
+        "fontWeight": "bold",
+        "textAlign": "center",
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "right": 24,
+          "left": 24
+        }
+      },
+      "props": {
+        "markdown": true,
+        "text": "# Medlemsmöte 16/1"
+      }
+    }
+  },
+  "block-1730822782106": {
+    "type": "ColumnsContainer",
+    "data": {
+      "style": {
+        "padding": {
+          "top": 4,
+          "bottom": 4,
+          "right": 4,
+          "left": 4
+        }
+      },
+      "props": {
+        "columnsCount": 3,
+        "columnsGap": 16,
+        "columns": [
+          {
+            "childrenIds": [
+              "block-1730822795424"
+            ]
+          },
+          {
+            "childrenIds": [
+              "block-1730822813985"
+            ]
+          },
+          {
+            "childrenIds": [
+              "block-1730823952098"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "block-1730822795424": {
+    "type": "Image",
+    "data": {
+      "style": {
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "right": 16,
+          "left": 16
+        },
+        "textAlign": "center"
+      },
+      "props": {
+        "width": 100,
+        "height": 100,
+        "url": "https://www.riksteatern.se/globalassets/lokal/riksteatern-skane/kavlinge-riksteaterforening/Facebook_Logo_Primary.png",
+        "alt": "Facebook",
+        "linkHref": "https://www.facebook.com/KavlingeRiksteaterforening/",
+        "contentAlignment": "middle"
+      }
+    }
+  },
+  "block-1730822813985": {
+    "type": "Image",
+    "data": {
+      "style": {
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "right": 16,
+          "left": 16
+        },
+        "textAlign": "center"
+      },
+      "props": {
+        "width": 100,
+        "height": 100,
+        "url": "https://www.riksteatern.se/globalassets/lokal/riksteatern-skane/kavlinge-riksteaterforening/Instagram_Glyph_Gradient.png",
+        "alt": "Instagram",
+        "linkHref": "https://www.instagram.com/kavlingeriksteaterforening",
+        "contentAlignment": "middle"
+      }
+    }
+  },
+  "block-1730823952098": {
+    "type": "Image",
+    "data": {
+      "style": {
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "right": 16,
+          "left": 16
+        },
+        "textAlign": "center"
+      },
+      "props": {
+        "width": 100,
+        "height": 100,
+        "url": "https://www.riksteatern.se/globalassets/lokal/riksteatern-skane/kavlinge-riksteaterforening/internet.png",
+        "alt": "Hemsida",
+        "linkHref": "https://www.riksteatern.se/kavlinge",
+        "contentAlignment": "middle"
+      }
+    }
+  },
+  "block-1736000689686": {
+    "type": "Text",
+    "data": {
+      "style": {
+        "fontWeight": "normal",
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "right": 24,
+          "left": 24
+        }
+      },
+      "props": {
+        "markdown": true,
+        "text": "Välkomna till Kävlinge Riksteaterförening Medlemsmöte den 16/1 kl 18.00. \nVi träffas på Lilla Kulturhuset Mejerigränd Kävlinge\n\nOm du inte är medlem, blir du det enkelt genom att gå in på sidan https://www.riksteatern.se/forening/kavlinge-riksteaterforening/bli-medlem/ \n\nVi börjar med mingelmusik med Alva och Marcus Lindelöf och enklare förtäring.\n\nDärefter presenterar styrelsen programmet för våren 2025.\nAnmälan till Inger Jonsson  ingerjonsson05@hotmail.com  Tel: 0739-933938\n"
+      }
+    }
+  }
+}
