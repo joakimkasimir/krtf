@@ -1,0 +1,407 @@
+{
+  "root": {
+    "type": "EmailLayout",
+    "data": {
+      "backdropColor": "#F5F5F5",
+      "canvasColor": "#FFFFFF",
+      "textColor": "#262626",
+      "fontFamily": "MODERN_SANS",
+      "childrenIds": [
+        "block-1720949447767",
+        "block-1720906276470",
+        "block-1725476117085",
+        "block-1720888846284",
+        "block-1720947366574",
+        "block-1720947399046",
+        "block-1730885621301",
+        "block-1730885059658",
+        "block-1730886312763",
+        "block-1730886471484",
+        "block-1730885134789",
+        "block-1730822782106"
+      ]
+    }
+  },
+  "block-1720888846284": {
+    "type": "Image",
+    "data": {
+      "style": {
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "right": 24,
+          "left": 24
+        }
+      },
+      "props": {
+        "url": "https://www.riksteatern.se/globalassets/lokal/riksteatern-skane/kavlinge-riksteaterforening/Lanseringsbild_Extas_Fotocollage_MattiasBroberg_staende_ny.jpg",
+        "alt": "Huvudbild",
+        "linkHref": "https://www.riksteatern.se/forestallningar/extas/202411171600-125748L",
+        "contentAlignment": "middle"
+      }
+    }
+  },
+  "block-1720906276470": {
+    "type": "Image",
+    "data": {
+      "style": {
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "right": 24,
+          "left": 24
+        },
+        "backgroundColor": "#522e96"
+      },
+      "props": {
+        "url": "https://www.riksteatern.se/globalassets/lokal/riksteatern-skane/kavlinge-riksteaterforening/RT_kavlinge_vit.png",
+        "alt": "Sample product",
+        "linkHref": null,
+        "contentAlignment": "middle"
+      }
+    }
+  },
+  "block-1720947366574": {
+    "type": "Text",
+    "data": {
+      "style": {
+        "color": "#FAFAFA",
+        "backgroundColor": "#522e96",
+        "fontSize": 19,
+        "fontWeight": "normal",
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "right": 24,
+          "left": 24
+        }
+      },
+      "props": {
+        "markdown": true,
+        "text": "Spelas den **17 november kl 16:00 på Kävlinge Kulturscenen**.\n\nSpeltid är 2 tim 30 min inkl. paus."
+      }
+    }
+  },
+  "block-1720947399046": {
+    "type": "Text",
+    "data": {
+      "style": {
+        "fontWeight": "normal",
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "right": 24,
+          "left": 24
+        }
+      },
+      "props": {
+        "markdown": true,
+        "text": "**En dramakomedi om att bryta sig loss och söka den totala friheten.**\n\n26-åriga Elin håller på att kvävas i relationen med sin mamma. När kompisen Mira introducerar henne till ravekulturen hamnar hon i en extatisk värld av dans, fest och droger. Elin blir en annan. En konstnär, en sexgudinna. Men hur fri är hon egentligen?\n\nKompisarna blir en del av ett kollektiv som drivs av mångsysslaren Lenny Dahlén. Den gemensamma tillvaron finansieras med kurser i självförverkligande och försäljning av ljudteknik, akvarier och andra suspekta varor. Lenny ser på Elin som ingen annan har gjort förut. Men någonting är fel och snart måste Elin bryta sig loss, igen.\n\nMalin Axelsson är med sina prisbelönta, hyllade texter en av Sveriges främsta dramatiker och regissörer, och står för både text och regi i detta spirituella drama, fyllt av musik och dans. En föreställning om människans längtan efter mening, frihet – och extas.\n\nExtas är en samproduktion mellan Riksteatern och Östgötateatern."
+      }
+    }
+  },
+  "block-1720949447767": {
+    "type": "Text",
+    "data": {
+      "style": {
+        "fontSize": 27,
+        "fontWeight": "normal",
+        "textAlign": "center",
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "right": 24,
+          "left": 24
+        }
+      },
+      "props": {
+        "markdown": true,
+        "text": "Till medlemmar i Kävlinge Riksteaterförening"
+      }
+    }
+  },
+  "block-1725476117085": {
+    "type": "Text",
+    "data": {
+      "style": {
+        "fontSize": 21,
+        "fontWeight": "bold",
+        "textAlign": "center",
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "right": 24,
+          "left": 24
+        }
+      },
+      "props": {
+        "markdown": true,
+        "text": "presenterar föreställningen\n\n# Extas"
+      }
+    }
+  },
+  "block-1730822782106": {
+    "type": "ColumnsContainer",
+    "data": {
+      "style": {
+        "padding": {
+          "top": 4,
+          "bottom": 4,
+          "right": 4,
+          "left": 4
+        }
+      },
+      "props": {
+        "columnsCount": 3,
+        "columnsGap": 16,
+        "columns": [
+          {
+            "childrenIds": [
+              "block-1730822795424"
+            ]
+          },
+          {
+            "childrenIds": [
+              "block-1730822813985"
+            ]
+          },
+          {
+            "childrenIds": [
+              "block-1730823952098"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "block-1730822795424": {
+    "type": "Image",
+    "data": {
+      "style": {
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "right": 16,
+          "left": 16
+        },
+        "textAlign": "center"
+      },
+      "props": {
+        "width": 100,
+        "height": 100,
+        "url": "https://www.riksteatern.se/globalassets/lokal/riksteatern-skane/kavlinge-riksteaterforening/Facebook_Logo_Primary.png",
+        "alt": "Facebook",
+        "linkHref": "https://www.facebook.com/KavlingeRiksteaterforening/",
+        "contentAlignment": "middle"
+      }
+    }
+  },
+  "block-1730822813985": {
+    "type": "Image",
+    "data": {
+      "style": {
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "right": 16,
+          "left": 16
+        },
+        "textAlign": "center"
+      },
+      "props": {
+        "width": 100,
+        "height": 100,
+        "url": "https://www.riksteatern.se/globalassets/lokal/riksteatern-skane/kavlinge-riksteaterforening/Instagram_Glyph_Gradient.png",
+        "alt": "Instagram",
+        "linkHref": "https://www.instagram.com/kavlingeriksteaterforening",
+        "contentAlignment": "middle"
+      }
+    }
+  },
+  "block-1730823952098": {
+    "type": "Image",
+    "data": {
+      "style": {
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "right": 16,
+          "left": 16
+        },
+        "textAlign": "center"
+      },
+      "props": {
+        "width": 100,
+        "height": 100,
+        "url": "https://www.riksteatern.se/globalassets/lokal/riksteatern-skane/kavlinge-riksteaterforening/internet.png",
+        "alt": "Hemsida",
+        "linkHref": "https://www.riksteatern.se/kavlinge",
+        "contentAlignment": "middle"
+      }
+    }
+  },
+  "block-1730885059658": {
+    "type": "Button",
+    "data": {
+      "style": {
+        "textAlign": "center",
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "right": 24,
+          "left": 24
+        }
+      },
+      "props": {
+        "buttonBackgroundColor": "#522e96",
+        "buttonStyle": "pill",
+        "size": "large",
+        "text": "Klicka här för att boka era biljetter!",
+        "url": "https://www.riksteatern.se/forestallningar/extas/202411171600-125748L"
+      }
+    }
+  },
+  "block-1730885134789": {
+    "type": "Divider",
+    "data": {
+      "style": {
+        "padding": {
+          "top": 16,
+          "right": 0,
+          "bottom": 16,
+          "left": 0
+        }
+      },
+      "props": {
+        "lineColor": "#CCCCCC"
+      }
+    }
+  },
+  "block-1730885621301": {
+    "type": "Text",
+    "data": {
+      "style": {
+        "fontWeight": "normal",
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "right": 24,
+          "left": 24
+        }
+      },
+      "props": {
+        "markdown": true,
+        "text": "**Recensioner**\n*Svenska Dagbladet 2024-10-27*\n\"Med ”Extas” påminner oss Malin Axelsson om att hon fortfarande är en av Sveriges mest egensinniga pjäsförfattare.\"\n\n*Svenska Dagbladet 2024-10-27*\n\"Extas är som formgjuten för scenen. Här finns en dramatisk båge och repliker som inte bara är socialrealistiska eller überpoetiska utan också trovärdigt spelbara.\"\n\n*Dagens Nyheter 2024-10-27*\n\"Skådespelarna ger sig hän åt rave- och drogkultur och DN:s Anna Håkansson vill aldrig gå hem.\""
+      }
+    }
+  },
+  "block-1730886312763": {
+    "type": "ColumnsContainer",
+    "data": {
+      "style": {
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "right": 24,
+          "left": 24
+        }
+      },
+      "props": {
+        "columnsCount": 3,
+        "columnsGap": 16,
+        "columns": [
+          {
+            "childrenIds": [
+              "block-1730886315477"
+            ]
+          },
+          {
+            "childrenIds": [
+              "block-1730886345093"
+            ]
+          },
+          {
+            "childrenIds": [
+              "block-1730886369820"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "block-1730886315477": {
+    "type": "Image",
+    "data": {
+      "style": {
+        "padding": {
+          "top": 0,
+          "bottom": 0,
+          "right": 0,
+          "left": 0
+        }
+      },
+      "props": {
+        "url": "https://www.riksteatern.se/globalassets/lokal/riksteatern-skane/kavlinge-riksteaterforening/Extas-Foto-Sara-P-Borgstrom-01.jpg",
+        "alt": "Bild 1",
+        "linkHref": "https://www.riksteatern.se/globalassets/lokal/riksteatern-skane/kavlinge-riksteaterforening/Extas-Foto-Sara-P-Borgstrom-01.jpg",
+        "contentAlignment": "middle"
+      }
+    }
+  },
+  "block-1730886345093": {
+    "type": "Image",
+    "data": {
+      "style": {
+        "padding": {
+          "top": 0,
+          "bottom": 0,
+          "right": 0,
+          "left": 0
+        }
+      },
+      "props": {
+        "url": "https://www.riksteatern.se/globalassets/lokal/riksteatern-skane/kavlinge-riksteaterforening/Extas-Foto-Sara-P-Borgstrom-02.jpg",
+        "alt": "Bild 2",
+        "linkHref": "https://www.riksteatern.se/globalassets/lokal/riksteatern-skane/kavlinge-riksteaterforening/Extas-Foto-Sara-P-Borgstrom-02.jpg",
+        "contentAlignment": "middle"
+      }
+    }
+  },
+  "block-1730886369820": {
+    "type": "Image",
+    "data": {
+      "style": {
+        "padding": {
+          "top": 0,
+          "bottom": 0,
+          "right": 0,
+          "left": 0
+        }
+      },
+      "props": {
+        "url": "https://www.riksteatern.se/globalassets/lokal/riksteatern-skane/kavlinge-riksteaterforening/Extas-Foto-Sara-P-Borgstrom-03.jpg",
+        "alt": "bild 3",
+        "linkHref": "https://www.riksteatern.se/globalassets/lokal/riksteatern-skane/kavlinge-riksteaterforening/Extas-Foto-Sara-P-Borgstrom-03.jpg",
+        "contentAlignment": "middle"
+      }
+    }
+  },
+  "block-1730886471484": {
+    "type": "Text",
+    "data": {
+      "style": {
+        "fontWeight": "normal",
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "right": 24,
+          "left": 24
+        }
+      },
+      "props": {
+        "markdown": true,
+        "text": "Fler bilder och filmer hittar du på vår hemsida, [Facebook]( https://www.facebook.com/events/430472033077361/?active_tab=discussion)  och Instagram."
+      }
+    }
+  }
+}

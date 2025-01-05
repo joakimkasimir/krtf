@@ -1,0 +1,158 @@
+{
+  "root": {
+    "type": "EmailLayout",
+    "data": {
+      "backdropColor": "#F5F5F5",
+      "canvasColor": "#FFFFFF",
+      "textColor": "#262626",
+      "fontFamily": "MODERN_SANS",
+      "childrenIds": [
+        "block-1720949447767",
+        "block-1720906276470",
+        "block-1725476117085",
+        "block-1720888846284",
+        "block-1720947366574",
+        "block-1720947399046",
+        "block-1720947951569"
+      ]
+    }
+  },
+  "block-1720888846284": {
+    "type": "Image",
+    "data": {
+      "style": {
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "right": 24,
+          "left": 24
+        }
+      },
+      "props": {
+        "url": "https://www.riksteatern.se/globalassets/lokal/riksteatern-skane/kavlinge-riksteaterforening/Affisch-Hajen.jpg",
+        "alt": "Sample product",
+        "linkHref": "https://www.riksteatern.se/forestallningar/en-stackars-liten-haj/202411101400-126517L",
+        "contentAlignment": "middle"
+      }
+    }
+  },
+  "block-1720906276470": {
+    "type": "Image",
+    "data": {
+      "style": {
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "right": 24,
+          "left": 24
+        },
+        "backgroundColor": "#8cd0ed"
+      },
+      "props": {
+        "url": "https://www.riksteatern.se/globalassets/lokal/riksteatern-skane/kavlinge-riksteaterforening/RT_kavlinge_vit.png",
+        "alt": "Sample product",
+        "linkHref": null,
+        "contentAlignment": "middle"
+      }
+    }
+  },
+  "block-1720947366574": {
+    "type": "Text",
+    "data": {
+      "style": {
+        "color": "#FAFAFA",
+        "backgroundColor": "#8cd0ed",
+        "fontWeight": "normal",
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "right": 24,
+          "left": 24
+        }
+      },
+      "props": {
+        "markdown": true,
+        "text": "Spelas den **10 november kl 14:00 på Kävlinge Kulturscenen.** \n\nSpeltid 35 minuter."
+      }
+    }
+  },
+  "block-1720947399046": {
+    "type": "Text",
+    "data": {
+      "style": {
+        "fontWeight": "normal",
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "right": 24,
+          "left": 24
+        }
+      },
+      "props": {
+        "markdown": true,
+        "text": "Det var en gång en pojke som älskade att bada. Han skulle nog ha badat varje dag, om han inte vore så väldigt rädd för hajar.\n\nEn föreställning om rädsla och hur man kan övervinna den. \nEfter en bok av **Mårten Sandén** och **Per Gustavsson**.\n\nDramatiserad av Tomas Fingal, Magnus Ödéhn och Ika Nord.\nMedverkande: Magnus Ödéhn och Tomas Fingal\nRegi: Ika Nord\nMusik: Henrik Andersson\n\nMedverkande\nMagnus Ödéhn, Tomas Fingal\n\nKonstnärligt team\nRegi: Ika Nord, Musik: Henrik Andersson, Scenografi: Annika Thore, Dramatisering: Tomas Fingal, Magnus Ödéhn och Ika Nord.\n\nProducent: Obanteatern"
+      }
+    }
+  },
+  "block-1720947951569": {
+    "type": "Button",
+    "data": {
+      "style": {
+        "textAlign": "center",
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "right": 24,
+          "left": 24
+        }
+      },
+      "props": {
+        "buttonBackgroundColor": "#f02c8a",
+        "buttonStyle": "rounded",
+        "size": "large",
+        "text": "Boka era biljetter här:",
+        "url": "https://www.riksteatern.se/forestallningar/en-stackars-liten-haj/202411101400-126517L"
+      }
+    }
+  },
+  "block-1720949447767": {
+    "type": "Text",
+    "data": {
+      "style": {
+        "fontSize": 27,
+        "fontWeight": "normal",
+        "textAlign": "center",
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "right": 24,
+          "left": 24
+        }
+      },
+      "props": {
+        "markdown": true,
+        "text": "Till medlemmar i Kävlinge Riksteaterförening."
+      }
+    }
+  },
+  "block-1725476117085": {
+    "type": "Text",
+    "data": {
+      "style": {
+        "fontSize": 21,
+        "fontWeight": "bold",
+        "textAlign": "center",
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "right": 24,
+          "left": 24
+        }
+      },
+      "props": {
+        "markdown": true,
+        "text": "presenterar familjeföreställningen\n\n# En stackars liten haj"
+      }
+    }
+  }
+}
