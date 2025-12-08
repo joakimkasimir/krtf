@@ -19,9 +19,9 @@
         "block-1730885621301",
         "block-1734375702098",
         "block-1734375845618",
+        "block-1765227539119",
         "block-1734375706222",
         "block-1734375983924",
-        "block-1730885134789",
         "block-1730822782106"
       ]
     }
@@ -72,6 +72,8 @@
     "type": "Text",
     "data": {
       "style": {
+        "fontSize": 18,
+        "fontFamily": "MODERN_SANS",
         "fontWeight": "normal",
         "padding": {
           "top": 16,
@@ -82,7 +84,7 @@
       },
       "props": {
         "markdown": true,
-        "text": "Medlemsmöte bjuder vi in till den 22/1 kl 18.00 på Lilla Kulturhuset Mejerigränd. Vi presenterar vårens program, bjuder på fika och underhållning av La Musica med Vioolin Kvinnor & Sång.\nAnmälan sker till e-post ingerjonsson05@hotmail.com eller tel: 0739-933938 senast 15/1."
+        "text": "Vi bjuder in till medlemsmöte den 22/1 kl 18.00 på Lilla Kulturhuset Mejerigränd. Då presenterar vi vårens program, bjuder på fika och får underhållning av La Musica med Vioolin Kvinnor & Sång.\nAnmälan sker till e-post ingerjonsson05@hotmail.com eller tel: 0739-933938 senast 15/1."
       }
     }
   },
@@ -111,6 +113,7 @@
     "data": {
       "style": {
         "fontSize": 21,
+        "fontFamily": "MODERN_SANS",
         "fontWeight": "bold",
         "textAlign": "center",
         "padding": {
@@ -122,7 +125,7 @@
       },
       "props": {
         "markdown": true,
-        "text": "# GOD JUL\n# OCH\n# GOTT NYTT ÅR!\nGammal TEXT. Önskar vi er alla medlemmar i Kävlinge Riksteaterförening, som nu är 178 st.\nMed detta brev vill vi tacka er för ert medlemskap, som på detta sätt stöttar kulturen i Kävlinge kommun.\nÅret som gått har varit ett bra scenkonstår. Vi har haft ett varierat utbud av föreställningar, som på olika sätt satt tankar och känslor i rörelse. Nedan kommer programmet för våren 2025. Vi hoppas att vi ses på föreställningarna. "
+        "text": "# GOD JUL\n# OCH\n# GOTT NYTT ÅR!\nÖnskar vi alla medlemmar i Kävlinge Riksteaterförening.\nHoppas ni har fått möjlighet att se föreställningar som har satt tankar och känslor i rörelse under året.\nEfter helgerna drar vi igång vårens säsong med en medlemsträff den 22/1, se nedan. Redan nu kan ni planera och boka era föreställningar via vår hemsida."
       }
     }
   },
@@ -219,26 +222,10 @@
       "props": {
         "width": 100,
         "height": 100,
-        "url": "https://www.riksteatern.se/globalassets/lokal/riksteatern-skane/kavlinge-riksteaterforening/internet.png",
+        "url": "https://www.riksteatern.se/globalassets/lokal/riksteatern-skane/kavlinge-riksteaterforening/www_icon.png",
         "alt": "Hemsida",
         "linkHref": "https://www.riksteatern.se/kavlinge",
         "contentAlignment": "middle"
-      }
-    }
-  },
-  "block-1730885134789": {
-    "type": "Divider",
-    "data": {
-      "style": {
-        "padding": {
-          "top": 16,
-          "bottom": 16,
-          "right": 0,
-          "left": 0
-        }
-      },
-      "props": {
-        "lineColor": "#CCCCCC"
       }
     }
   },
@@ -246,7 +233,10 @@
     "type": "Text",
     "data": {
       "style": {
+        "fontSize": 18,
+        "fontFamily": "MODERN_SANS",
         "fontWeight": "normal",
+        "textAlign": "left",
         "padding": {
           "top": 16,
           "bottom": 16,
@@ -256,7 +246,7 @@
       },
       "props": {
         "markdown": true,
-        "text": "**Årsmöte** är torsdag den22/2. Särskild kallelse kommer skickas ut."
+        "text": "**Årsmöte** är torsdag den 22/2. Särskild kallelse kommer skickas ut."
       }
     }
   },
@@ -455,6 +445,26 @@
         "alt": "Sample product",
         "linkHref": null,
         "contentAlignment": "middle"
+      }
+    }
+  },
+  "block-1765227539119": {
+    "type": "Text",
+    "data": {
+      "style": {
+        "fontSize": 18,
+        "fontFamily": "MODERN_SANS",
+        "fontWeight": "normal",
+        "textAlign": "center",
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "right": 24,
+          "left": 24
+        }
+      },
+      "props": {
+        "text": "Klicka/tryck på bilden ⬇️"
       }
     }
   }
