@@ -11,8 +11,11 @@
         "block-1720906276470",
         "block-1734373760587",
         "block-1725476117085",
-        "block-1734375822651",
-        "block-1720947366574",
+        "block-1765293106421",
+        "block-1765293110436",
+        "block-1765293144692",
+        "block-1765293054958",
+        "block-1765292808436",
         "block-1720947399046",
         "block-1765024806572",
         "block-1734375019434",
@@ -46,28 +49,6 @@
       }
     }
   },
-  "block-1720947366574": {
-    "type": "Text",
-    "data": {
-      "style": {
-        "color": "#FAFAFA",
-        "backgroundColor": "#0c8114",
-        "fontSize": 19,
-        "fontWeight": "normal",
-        "textAlign": "center",
-        "padding": {
-          "top": 16,
-          "bottom": 16,
-          "right": 24,
-          "left": 24
-        }
-      },
-      "props": {
-        "markdown": true,
-        "text": "## Medlemsmöte 22 januari"
-      }
-    }
-  },
   "block-1720947399046": {
     "type": "Text",
     "data": {
@@ -84,7 +65,7 @@
       },
       "props": {
         "markdown": true,
-        "text": "Vi bjuder in till medlemsmöte den 22/1 kl 18.00 på Lilla Kulturhuset Mejerigränd. Då presenterar vi vårens program, bjuder på fika och får underhållning av La Musica med Vioolin Kvinnor & Sång.\nAnmälan sker till e-post ingerjonsson05@hotmail.com eller tel: 0739-933938 senast 15/1."
+        "text": "Vi bjuder in till medlemsmöte den 22/1 kl 18.00 på Lilla Kulturhuset Mejerigränd. Då presenterar vi vårens program, bjuder på fika och musikalisk underhållning med duon Violin Kvinnor & Sång och deras program La Musica.\n\nAnmälan sker till e-post ingerjonsson05@hotmail.com eller tel: 0739-933938 senast 15/1."
       }
     }
   },
@@ -125,7 +106,7 @@
       },
       "props": {
         "markdown": true,
-        "text": "# GOD JUL\n# OCH\n# GOTT NYTT ÅR!\nÖnskar vi alla medlemmar i Kävlinge Riksteaterförening.\nHoppas ni har fått möjlighet att se föreställningar som har satt tankar och känslor i rörelse under året.\nEfter helgerna drar vi igång vårens säsong med en medlemsträff den 22/1, se nedan. Redan nu kan ni planera och boka vårens föreställningar via vår hemsida."
+        "text": "# GOD JUL\n# OCH\n# GOTT NYTT ÅR!\nÖnskar vi alla medlemmar i Kävlinge Riksteaterförening.\nHoppas ni har fått möjlighet att se föreställningar som har satt tankar och känslor i rörelse under året.\nEfter helgerna drar vi igång vårens säsong med en medlemsträff den 22/1, se nedan. Redan nu kan ni planera och boka vårens föreställningar via vår [hemsida](https://www.riksteatern.se/kavlinge). "
       }
     }
   },
@@ -246,7 +227,7 @@
       },
       "props": {
         "markdown": true,
-        "text": "**Årsmöte** är torsdag den 22/2. Särskild kallelse kommer skickas ut."
+        "text": "**Årsmöte** är söndag den 22/2. Särskild kallelse kommer skickas ut."
       }
     }
   },
@@ -378,22 +359,6 @@
       }
     }
   },
-  "block-1734375822651": {
-    "type": "Divider",
-    "data": {
-      "style": {
-        "padding": {
-          "top": 16,
-          "bottom": 16,
-          "right": 0,
-          "left": 0
-        }
-      },
-      "props": {
-        "lineColor": "#CCCCCC"
-      }
-    }
-  },
   "block-1734375845618": {
     "type": "Heading",
     "data": {
@@ -465,6 +430,99 @@
       },
       "props": {
         "text": "Klicka/tryck på bilden ⬇️"
+      }
+    }
+  },
+  "block-1765292808436": {
+    "type": "Heading",
+    "data": {
+      "props": {
+        "text": "Melemsmöte 22 januari",
+        "level": "h2"
+      },
+      "style": {
+        "color": "#FAFAFA",
+        "backgroundColor": "#0c8114",
+        "fontFamily": "MODERN_SANS",
+        "fontWeight": "bold",
+        "textAlign": "center",
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "right": 24,
+          "left": 24
+        }
+      }
+    }
+  },
+  "block-1765293054958": {
+    "type": "Divider",
+    "data": {
+      "style": {
+        "padding": {
+          "top": 16,
+          "right": 0,
+          "bottom": 16,
+          "left": 0
+        }
+      },
+      "props": {
+        "lineColor": "#CCCCCC"
+      }
+    }
+  },
+  "block-1765293106421": {
+    "type": "Divider",
+    "data": {
+      "style": {
+        "padding": {
+          "top": 16,
+          "right": 0,
+          "bottom": 16,
+          "left": 0
+        }
+      },
+      "props": {
+        "lineColor": "#CCCCCC"
+      }
+    }
+  },
+  "block-1765293110436": {
+    "type": "Heading",
+    "data": {
+      "props": {
+        "text": "Tips på julklappar"
+      },
+      "style": {
+        "color": "#FAFAFA",
+        "backgroundColor": "#0c8114",
+        "textAlign": "center",
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "right": 24,
+          "left": 24
+        }
+      }
+    }
+  },
+  "block-1765293144692": {
+    "type": "Text",
+    "data": {
+      "style": {
+        "fontSize": 18,
+        "fontFamily": "MODERN_SANS",
+        "fontWeight": "normal",
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "right": 24,
+          "left": 24
+        }
+      },
+      "props": {
+        "markdown": true,
+        "text": "Överraska någon till jul genom att ge bort en biljett till några av våra föreställningar. 🎁\nDet går också att ge bort ett medlemskap i Riksteatern, se instruktioner [här](https://www.riksteatern.se/mina-sidor/gavomedlemskap/)."
       }
     }
   }
