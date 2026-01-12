@@ -1,0 +1,383 @@
+{
+  "root": {
+    "type": "EmailLayout",
+    "data": {
+      "backdropColor": "#F5F5F5",
+      "canvasColor": "#FFFFFF",
+      "textColor": "#262626",
+      "fontFamily": "MODERN_SANS",
+      "childrenIds": [
+        "block-1720949447767",
+        "block-1720906276470",
+        "block-1765293054958",
+        "block-1765398547804",
+        "block-1720947399046",
+        "block-1765024806572",
+        "block-1734375702098",
+        "block-1734375845618",
+        "block-1765398702293",
+        "block-1765399342656",
+        "block-1734375983924",
+        "block-1730822782106"
+      ]
+    }
+  },
+  "block-1720906276470": {
+    "type": "Image",
+    "data": {
+      "style": {
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "right": 24,
+          "left": 24
+        },
+        "backgroundColor": "#76356f"
+      },
+      "props": {
+        "url": "https://www.riksteatern.se/globalassets/lokal/riksteatern-skane/kavlinge-riksteaterforening/RT_kavlinge_vit.png",
+        "alt": "Sample product",
+        "linkHref": null,
+        "contentAlignment": "middle"
+      }
+    }
+  },
+  "block-1720947399046": {
+    "type": "Text",
+    "data": {
+      "style": {
+        "fontSize": 18,
+        "fontFamily": "MODERN_SANS",
+        "fontWeight": "normal",
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "right": 24,
+          "left": 24
+        }
+      },
+      "props": {
+        "markdown": true,
+        "text": "Vi bjuder in till medlemsmöte den 22/1 kl 18.00 på Lilla Kulturhuset Mejerigränd. Då presenterar vi vårens program, minifestivalen och en teaterresa i höst. Vi bjuder på fika och musikalisk underhållning med duon Violin Kvinnor & Sång och deras program La Musica.\n\nAnmälan sker till e-post ingerjonsson05@hotmail.com eller tel: 0739-933938 senast 15/1."
+      }
+    }
+  },
+  "block-1720949447767": {
+    "type": "Text",
+    "data": {
+      "style": {
+        "fontSize": 27,
+        "fontWeight": "normal",
+        "textAlign": "center",
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "right": 24,
+          "left": 24
+        }
+      },
+      "props": {
+        "markdown": true,
+        "text": "Till medlemmar i Kävlinge Riksteaterförening"
+      }
+    }
+  },
+  "block-1730822782106": {
+    "type": "ColumnsContainer",
+    "data": {
+      "style": {
+        "padding": {
+          "top": 4,
+          "bottom": 4,
+          "right": 4,
+          "left": 4
+        }
+      },
+      "props": {
+        "columnsCount": 3,
+        "columnsGap": 16,
+        "columns": [
+          {
+            "childrenIds": [
+              "block-1730822795424"
+            ]
+          },
+          {
+            "childrenIds": [
+              "block-1730822813985"
+            ]
+          },
+          {
+            "childrenIds": [
+              "block-1730823952098"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "block-1730822795424": {
+    "type": "Image",
+    "data": {
+      "style": {
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "right": 16,
+          "left": 16
+        },
+        "textAlign": "center"
+      },
+      "props": {
+        "width": 100,
+        "height": 100,
+        "url": "https://www.riksteatern.se/globalassets/lokal/riksteatern-skane/kavlinge-riksteaterforening/Facebook_Logo_Primary.png",
+        "alt": "Facebook",
+        "linkHref": "https://www.facebook.com/KavlingeRiksteaterforening/",
+        "contentAlignment": "middle"
+      }
+    }
+  },
+  "block-1730822813985": {
+    "type": "Image",
+    "data": {
+      "style": {
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "right": 16,
+          "left": 16
+        },
+        "textAlign": "center"
+      },
+      "props": {
+        "width": 100,
+        "height": 100,
+        "url": "https://www.riksteatern.se/globalassets/lokal/riksteatern-skane/kavlinge-riksteaterforening/Instagram_Glyph_Gradient.png",
+        "alt": "Instagram",
+        "linkHref": "https://www.instagram.com/kavlingeriksteaterforening",
+        "contentAlignment": "middle"
+      }
+    }
+  },
+  "block-1730823952098": {
+    "type": "Image",
+    "data": {
+      "style": {
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "right": 16,
+          "left": 16
+        },
+        "textAlign": "center"
+      },
+      "props": {
+        "width": 100,
+        "height": 100,
+        "url": "https://www.riksteatern.se/globalassets/lokal/riksteatern-skane/kavlinge-riksteaterforening/www_icon.png",
+        "alt": "Hemsida",
+        "linkHref": "https://www.riksteatern.se/kavlinge",
+        "contentAlignment": "middle"
+      }
+    }
+  },
+  "block-1730886315477": {
+    "type": "Image",
+    "data": {
+      "style": {
+        "padding": {
+          "top": 0,
+          "bottom": 0,
+          "right": 0,
+          "left": 0
+        }
+      },
+      "props": {
+        "url": "https://www.riksteatern.se/globalassets/lokal/riksteatern-skane/kavlinge-riksteaterforening/Extas-Foto-Sara-P-Borgstrom-01.jpg",
+        "alt": "Bild 1",
+        "linkHref": "https://www.riksteatern.se/globalassets/lokal/riksteatern-skane/kavlinge-riksteaterforening/Extas-Foto-Sara-P-Borgstrom-01.jpg",
+        "contentAlignment": "middle"
+      }
+    }
+  },
+  "block-1730886345093": {
+    "type": "Image",
+    "data": {
+      "style": {
+        "padding": {
+          "top": 0,
+          "bottom": 0,
+          "right": 0,
+          "left": 0
+        }
+      },
+      "props": {
+        "url": "https://www.riksteatern.se/globalassets/lokal/riksteatern-skane/kavlinge-riksteaterforening/Extas-Foto-Sara-P-Borgstrom-02.jpg",
+        "alt": "Bild 2",
+        "linkHref": "https://www.riksteatern.se/globalassets/lokal/riksteatern-skane/kavlinge-riksteaterforening/Extas-Foto-Sara-P-Borgstrom-02.jpg",
+        "contentAlignment": "middle"
+      }
+    }
+  },
+  "block-1730886369820": {
+    "type": "Image",
+    "data": {
+      "style": {
+        "padding": {
+          "top": 0,
+          "bottom": 0,
+          "right": 0,
+          "left": 0
+        }
+      },
+      "props": {
+        "url": "https://www.riksteatern.se/globalassets/lokal/riksteatern-skane/kavlinge-riksteaterforening/Extas-Foto-Sara-P-Borgstrom-03.jpg",
+        "alt": "bild 3",
+        "linkHref": "https://www.riksteatern.se/globalassets/lokal/riksteatern-skane/kavlinge-riksteaterforening/Extas-Foto-Sara-P-Borgstrom-03.jpg",
+        "contentAlignment": "middle"
+      }
+    }
+  },
+  "block-1734375702098": {
+    "type": "Divider",
+    "data": {
+      "style": {
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "right": 0,
+          "left": 0
+        }
+      },
+      "props": {
+        "lineColor": "#CCCCCC"
+      }
+    }
+  },
+  "block-1734375845618": {
+    "type": "Heading",
+    "data": {
+      "props": {
+        "text": "Minifestival",
+        "level": "h1"
+      },
+      "style": {
+        "color": "#f8f141",
+        "backgroundColor": "#d61c38",
+        "textAlign": "center",
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "right": 24,
+          "left": 24
+        }
+      }
+    }
+  },
+  "block-1734375983924": {
+    "type": "Divider",
+    "data": {
+      "style": {
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "right": 0,
+          "left": 0
+        }
+      },
+      "props": {
+        "lineColor": "#CCCCCC"
+      }
+    }
+  },
+  "block-1765024806572": {
+    "type": "Image",
+    "data": {
+      "style": {
+        "padding": {
+          "top": 4,
+          "bottom": 4,
+          "right": 4,
+          "left": 4
+        }
+      },
+      "props": {
+        "url": "https://www.riksteatern.se/globalassets/lokal/riksteatern-skane/kavlinge-riksteaterforening/violin_kvinnor_sang_scaled.jpg",
+        "alt": "Sample product",
+        "linkHref": null,
+        "contentAlignment": "middle"
+      }
+    }
+  },
+  "block-1765293054958": {
+    "type": "Divider",
+    "data": {
+      "style": {
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "right": 0,
+          "left": 0
+        }
+      },
+      "props": {
+        "lineColor": "#CCCCCC"
+      }
+    }
+  },
+  "block-1765398547804": {
+    "type": "Heading",
+    "data": {
+      "props": {
+        "text": "Medlemsmöte söndag 21 januari"
+      },
+      "style": {
+        "textAlign": "center",
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "right": 24,
+          "left": 24
+        }
+      }
+    }
+  },
+  "block-1765398702293": {
+    "type": "Text",
+    "data": {
+      "style": {
+        "fontWeight": "normal",
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "right": 24,
+          "left": 24
+        }
+      },
+      "props": {
+        "markdown": true,
+        "text": "Missa inte möjligheten att uppleva två svenska klassiker!\n\n\nVi inleder söndagen den 8/2 med en ytterst originell scenkonstnär som blivit en klassiker, nämligen den unike Carl-Einar Häckner, här med sin nya föreställning Siluetter. Det lär bli, som alltid, en hisnande upplevelse med många skratt och magiska ögonblick.\n\nPå måndagen 9/2 kommer den skånska Teater Rynge, som erbjudit oss en föreställning i samband med sina repetitioner i Kävlinge. Denna teater som gjort sig känd för sina nyskapande föreställningar leds av Christer Jonsson, en erfaren skådespelare och regissör, Han utforskar gärna klassikerna som bärare av universella teman. Här får vi se pjäsen Fordringsägare av Strindberg, ett tidlöst drama med teman som kärlek, svek och hämnd i en spännande modern tappning.\n\n\nVälkomna till denna teaterfest för alla sinnen!\n\nSom medlem får ni ytterligare 100 kr i rabatt jämfört med de enskilda scenpasspriserna! 250 kr för bägge föreställningarna som ett paket. Biljetter köps via vår [hemsida.](https://www.riksteatern.se/kavlinge)"
+      }
+    }
+  },
+  "block-1765399342656": {
+    "type": "Image",
+    "data": {
+      "style": {
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "right": 24,
+          "left": 24
+        }
+      },
+      "props": {
+        "url": "https://www.riksteatern.se/globalassets/lokal/riksteatern-skane/kavlinge-riksteaterforening/webbild.jpg",
+        "alt": "Sample product",
+        "linkHref": "https://www.riksteatern.se/globalassets/lokal/riksteatern-skane/kavlinge-riksteaterforening/affisch_minifestival_v1.0.pdf",
+        "contentAlignment": "middle"
+      }
+    }
+  }
+}
