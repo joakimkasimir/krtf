@@ -1,0 +1,488 @@
+{
+  "root": {
+    "type": "EmailLayout",
+    "data": {
+      "backdropColor": "#F5F5F5",
+      "canvasColor": "#FFFFFF",
+      "textColor": "#262626",
+      "fontFamily": "MODERN_SANS",
+      "childrenIds": [
+        "block-1720949447767",
+        "block-1720906276470",
+        "block-1765293054958",
+        "block-1765398547804",
+        "block-1720947399046",
+        "block-1765024806572",
+        "block-1734375702098",
+        "block-1769031534023",
+        "block-1769030117093",
+        "block-1769888224020",
+        "block-1769888552454",
+        "block-1769031574277",
+        "block-1769030337213",
+        "block-1769029932596",
+        "block-1769888977726",
+        "block-1734375983924",
+        "block-1730822782106"
+      ]
+    }
+  },
+  "block-1720906276470": {
+    "type": "Image",
+    "data": {
+      "style": {
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "right": 24,
+          "left": 24
+        },
+        "backgroundColor": "#56b34b"
+      },
+      "props": {
+        "url": "https://www.riksteatern.se/globalassets/lokal/riksteatern-skane/kavlinge-riksteaterforening/RT_kavlinge_vit.png",
+        "alt": "Kävlinge Riksteaterförening",
+        "linkHref": null,
+        "contentAlignment": "middle"
+      }
+    }
+  },
+  "block-1720947399046": {
+    "type": "Text",
+    "data": {
+      "style": {
+        "fontSize": 23,
+        "fontFamily": "MODERN_SANS",
+        "fontWeight": "bold",
+        "textAlign": "center",
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "right": 24,
+          "left": 24
+        }
+      },
+      "props": {
+        "markdown": true,
+        "text": "### Missa inte möjligheten att uppleva två svenska klassiker!\nVi inleder söndagen den 8/2 med en ytterst originell scenkonstnär som blivit en klassiker, nämligen den unike Carl-Einar Häckner, här med sin nya föreställning Siluetter. Det lär bli, som alltid, en hisnande upplevelse med många skratt och magiska ögonblick.                 \n\nPå måndagen 9/2 kommer den skånska Teater Rynge, som erbjudit oss en föreställning i samband med sina repetitioner i Kävlinge. Denna teater som gjort sig känd för sina nyskapande föreställningar leds av Christer Jonsson, en erfaren skådespelare och regissör, Han utforskar gärna klassikerna som bärare av universella teman. Här får vi se pjäsen Fordringsägare av Strindberg, ett tidlöst drama med teman som kärlek, svek och hämnd i en spännande modern tappning.\nVälkomna till denna teaterfest för alla sinnen!\nSom medlem får ni ytterligare 100 kr i rabatt jämfört med de enskilda scenpasspriserna! 250 kr för bägge föreställningarna  som ett paket. Biljetter köps via vår hemsida."
+      }
+    }
+  },
+  "block-1720949447767": {
+    "type": "Text",
+    "data": {
+      "style": {
+        "fontSize": 27,
+        "fontWeight": "normal",
+        "textAlign": "center",
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "right": 24,
+          "left": 24
+        }
+      },
+      "props": {
+        "markdown": true,
+        "text": "Till medlemmar i Kävlinge Riksteaterförening"
+      }
+    }
+  },
+  "block-1730822782106": {
+    "type": "ColumnsContainer",
+    "data": {
+      "style": {
+        "padding": {
+          "top": 4,
+          "bottom": 4,
+          "right": 4,
+          "left": 4
+        }
+      },
+      "props": {
+        "columnsCount": 3,
+        "columnsGap": 16,
+        "columns": [
+          {
+            "childrenIds": [
+              "block-1730822795424"
+            ]
+          },
+          {
+            "childrenIds": [
+              "block-1730822813985"
+            ]
+          },
+          {
+            "childrenIds": [
+              "block-1730823952098"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "block-1730822795424": {
+    "type": "Image",
+    "data": {
+      "style": {
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "right": 16,
+          "left": 16
+        },
+        "textAlign": "center"
+      },
+      "props": {
+        "width": 100,
+        "height": 100,
+        "url": "https://www.riksteatern.se/globalassets/lokal/riksteatern-skane/kavlinge-riksteaterforening/Facebook_Logo_Primary.png",
+        "alt": "Facebook",
+        "linkHref": "https://www.facebook.com/KavlingeRiksteaterforening/",
+        "contentAlignment": "middle"
+      }
+    }
+  },
+  "block-1730822813985": {
+    "type": "Image",
+    "data": {
+      "style": {
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "right": 16,
+          "left": 16
+        },
+        "textAlign": "center"
+      },
+      "props": {
+        "width": 100,
+        "height": 100,
+        "url": "https://www.riksteatern.se/globalassets/lokal/riksteatern-skane/kavlinge-riksteaterforening/Instagram_Glyph_Gradient.png",
+        "alt": "Instagram",
+        "linkHref": "https://www.instagram.com/kavlingeriksteaterforening",
+        "contentAlignment": "middle"
+      }
+    }
+  },
+  "block-1730823952098": {
+    "type": "Image",
+    "data": {
+      "style": {
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "right": 16,
+          "left": 16
+        },
+        "textAlign": "center"
+      },
+      "props": {
+        "width": 100,
+        "height": 100,
+        "url": "https://www.riksteatern.se/globalassets/lokal/riksteatern-skane/kavlinge-riksteaterforening/www_icon.png",
+        "alt": "Hemsida",
+        "linkHref": "https://www.riksteatern.se/kavlinge",
+        "contentAlignment": "middle"
+      }
+    }
+  },
+  "block-1730886315477": {
+    "type": "Image",
+    "data": {
+      "style": {
+        "padding": {
+          "top": 0,
+          "bottom": 0,
+          "right": 0,
+          "left": 0
+        }
+      },
+      "props": {
+        "url": "https://www.riksteatern.se/globalassets/lokal/riksteatern-skane/kavlinge-riksteaterforening/Extas-Foto-Sara-P-Borgstrom-01.jpg",
+        "alt": "Bild 1",
+        "linkHref": "https://www.riksteatern.se/globalassets/lokal/riksteatern-skane/kavlinge-riksteaterforening/Extas-Foto-Sara-P-Borgstrom-01.jpg",
+        "contentAlignment": "middle"
+      }
+    }
+  },
+  "block-1730886345093": {
+    "type": "Image",
+    "data": {
+      "style": {
+        "padding": {
+          "top": 0,
+          "bottom": 0,
+          "right": 0,
+          "left": 0
+        }
+      },
+      "props": {
+        "url": "https://www.riksteatern.se/globalassets/lokal/riksteatern-skane/kavlinge-riksteaterforening/Extas-Foto-Sara-P-Borgstrom-02.jpg",
+        "alt": "Bild 2",
+        "linkHref": "https://www.riksteatern.se/globalassets/lokal/riksteatern-skane/kavlinge-riksteaterforening/Extas-Foto-Sara-P-Borgstrom-02.jpg",
+        "contentAlignment": "middle"
+      }
+    }
+  },
+  "block-1730886369820": {
+    "type": "Image",
+    "data": {
+      "style": {
+        "padding": {
+          "top": 0,
+          "bottom": 0,
+          "right": 0,
+          "left": 0
+        }
+      },
+      "props": {
+        "url": "https://www.riksteatern.se/globalassets/lokal/riksteatern-skane/kavlinge-riksteaterforening/Extas-Foto-Sara-P-Borgstrom-03.jpg",
+        "alt": "bild 3",
+        "linkHref": "https://www.riksteatern.se/globalassets/lokal/riksteatern-skane/kavlinge-riksteaterforening/Extas-Foto-Sara-P-Borgstrom-03.jpg",
+        "contentAlignment": "middle"
+      }
+    }
+  },
+  "block-1734375702098": {
+    "type": "Divider",
+    "data": {
+      "style": {
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "right": 0,
+          "left": 0
+        }
+      },
+      "props": {
+        "lineColor": "#CCCCCC"
+      }
+    }
+  },
+  "block-1734375983924": {
+    "type": "Divider",
+    "data": {
+      "style": {
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "right": 0,
+          "left": 0
+        }
+      },
+      "props": {
+        "lineColor": "#CCCCCC"
+      }
+    }
+  },
+  "block-1765024806572": {
+    "type": "Image",
+    "data": {
+      "style": {
+        "padding": {
+          "top": 4,
+          "bottom": 4,
+          "right": 4,
+          "left": 4
+        }
+      },
+      "props": {
+        "url": "https://www.riksteatern.se/globalassets/lokal/riksteatern-skane/kavlinge-riksteaterforening/webbild.jpg",
+        "alt": "Sample product",
+        "linkHref": "https://www.riksteatern.se/globalassets/lokal/riksteatern-skane/kavlinge-riksteaterforening/affisch_minifestival_v1.0.pdf",
+        "contentAlignment": "middle"
+      }
+    }
+  },
+  "block-1765293054958": {
+    "type": "Divider",
+    "data": {
+      "style": {
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "right": 0,
+          "left": 0
+        }
+      },
+      "props": {
+        "lineColor": "#CCCCCC"
+      }
+    }
+  },
+  "block-1765398547804": {
+    "type": "Heading",
+    "data": {
+      "props": {
+        "text": "Minifestival",
+        "level": "h1"
+      },
+      "style": {
+        "fontFamily": "MODERN_SANS",
+        "fontWeight": "bold",
+        "textAlign": "center",
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "right": 24,
+          "left": 24
+        }
+      }
+    }
+  },
+  "block-1769029932596": {
+    "type": "Text",
+    "data": {
+      "style": {
+        "fontFamily": "MODERN_SANS",
+        "fontWeight": "normal",
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "right": 24,
+          "left": 24
+        }
+      },
+      "props": {
+        "markdown": true,
+        "text": "Pjäsen Fordringsägare av August Strindberg är ett drama om kärlek, svek och hämnd. Huvudpersonerna är Tekla och hennes make Adolf, som är en konstnär med sviktande hälsa. Adolf har fått besök av sin nyfunne vän Gustav som sitter och samråder med honom om vad han skall ta sig till med sin fru Tekla, som hela tiden leker med honom. Han befarar att hon är otrogen så som hon ränner runt på nätterna. Det han inte vet är att Gustav en gång varit gift med Tekla och har nu likt en fordringsägare kommit för att ta tillbaka henne. Detta skall ske genom att få Adolf att förstå att han måste lämna henne.\n\nHandlingen utspelas under en eftermiddag i en salong på en badort. Där bor konstnären Adolf och hans hustru Tekla som är författarinna. Hustrun är bortrest och hennes före detta man Gustaf dyker upp för att hämnas.\n\nHan suggerera Adolf att se Tekla som ett ”kvinnodjur”, en ”vampyr som suger ut männens själar”. När Tekla sedan anländer till ön driver Gustaf skickligt sitt spel mot den slutliga katastrofen. Adolf, som avlyssnat ett kärleksmöte mellan Gustaf och Tekla, faller döende ner. Tekla omfamnar honom i djup förtvivlan. Gustaf har segrat över sin rival och fått sin hämnd mot Tekla.\n\nFordringsägare är ett av **Strindbergs** mest psykologiska och naturalistiska verk, som skildrar människans mörka sidor och konflikter. Pjäsen är skriven 1888–1889 och hade premiär den 9 mars 1889 på Dagmarteatern i Köpenhamn. Svensk premiär hade den 1 mars 1890 på Svenska teatern i Stockholm och väckte stor uppmärksamhet för sin vågade och provocerande handling."
+      }
+    }
+  },
+  "block-1769030117093": {
+    "type": "Text",
+    "data": {
+      "style": {
+        "fontFamily": "MODERN_SANS",
+        "fontWeight": "normal",
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "right": 24,
+          "left": 24
+        }
+      },
+      "props": {
+        "markdown": true,
+        "text": "### Carl-Einar bjuder på en makalös kväll med trolleri, en stor dos humor och några visor, i en underhållning för att hålla under människan.\nFöreställningarna med Carl-Einar Häckner är i full gång och efter en succéstart i Göteborg med förlängd spelperiod i vår blir det turné i Sverige i hösten 2025 och våren 2026.\n\nHans föreställningar väver samman surrealism med magiskt trolleri och poetisk intelligens.\n\n“Jag har målat mina tankar. Det är som att kratta löv. Högen med bilder växer. Dom känns som svarta streck som blir till bilder. Jag vill fortsätta samtalet med min publik om konsten och poesin, trolla, sjunga och låta humorn flöda. Jag lovade mig själv att komma tillbaka med en ny föreställning. Nu är det dags! Livet har gett mig nya superkrafter. Ni kommer att känna igen mig. Det blir direkt. Rätt på. Det ska bli roligt!”"
+      }
+    }
+  },
+  "block-1769030337213": {
+    "type": "Heading",
+    "data": {
+      "props": {
+        "text": "Fodringsägare",
+        "level": "h1"
+      },
+      "style": {
+        "color": "#FAFAFA",
+        "backgroundColor": "#56b34b",
+        "fontFamily": "MODERN_SANS",
+        "textAlign": "center",
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "right": 24,
+          "left": 24
+        }
+      }
+    }
+  },
+  "block-1769031534023": {
+    "type": "Heading",
+    "data": {
+      "props": {
+        "text": "Siluetter",
+        "level": "h1"
+      },
+      "style": {
+        "color": "#FAFAFA",
+        "backgroundColor": "#d52730",
+        "fontFamily": "MODERN_SANS",
+        "textAlign": "center",
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "right": 24,
+          "left": 24
+        }
+      }
+    }
+  },
+  "block-1769031574277": {
+    "type": "Divider",
+    "data": {
+      "style": {
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "right": 0,
+          "left": 0
+        }
+      },
+      "props": {
+        "lineColor": "#CCCCCC"
+      }
+    }
+  },
+  "block-1769888224020": {
+    "type": "Image",
+    "data": {
+      "style": {
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "right": 24,
+          "left": 24
+        }
+      },
+      "props": {
+        "url": "https://www.riksteatern.se/globalassets/lokal/riksteatern-skane/kavlinge-riksteaterforening/CEH_SILUETTER-AFFISCH-RED-1080x1920-1-576x1024.jpg",
+        "alt": "Siluetter",
+        "linkHref": null,
+        "contentAlignment": "middle"
+      }
+    }
+  },
+  "block-1769888552454": {
+    "type": "Text",
+    "data": {
+      "style": {
+        "fontFamily": "MODERN_SANS",
+        "fontWeight": "normal",
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "right": 24,
+          "left": 24
+        }
+      },
+      "props": {
+        "markdown": true,
+        "text": "[Se Carl-Einar Häckners hälsning till Kävlinge.](https://www.riksteatern.se/globalassets/lokal/riksteatern-skane/kavlinge-riksteaterforening/Carl-Einar_Kavlinge.mp4) 📽️"
+      }
+    }
+  },
+  "block-1769888977726": {
+    "type": "Image",
+    "data": {
+      "style": {
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "right": 24,
+          "left": 24
+        }
+      },
+      "props": {
+        "url": "https://www.riksteatern.se/globalassets/lokal/riksteatern-skane/kavlinge-riksteaterforening/ny-affisch-a3-fordringsagare----rynge-teater.jpg",
+        "alt": "Fodringsägare",
+        "linkHref": null,
+        "contentAlignment": "middle"
+      }
+    }
+  }
+}
