@@ -288,7 +288,8 @@
           "right": 24,
           "left": 24
         },
-        "backgroundColor": "#ac917b"
+        "backgroundColor": "#ac917b",
+        "textAlign": "center"
       },
       "props": {
         "url": "https://www.riksteatern.se/globalassets/lokal/riksteatern-skane/kavlinge-riksteaterforening/img_3015-edit.png",
