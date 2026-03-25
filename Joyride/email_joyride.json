@@ -1,0 +1,527 @@
+{
+  "root": {
+    "type": "EmailLayout",
+    "data": {
+      "backdropColor": "#F5F5F5",
+      "canvasColor": "#FFFFFF",
+      "textColor": "#262626",
+      "fontFamily": "MODERN_SANS",
+      "childrenIds": [
+        "block-1720949447767",
+        "block-1720906276470",
+        "block-1765293054958",
+        "block-1765398547804",
+        "block-1720947399046",
+        "block-1765024806572",
+        "block-1734375702098",
+        "block-1765398702293",
+        "block-1769030113572",
+        "block-1769031534023",
+        "block-1769030117093",
+        "block-1769029796993",
+        "block-1769031574277",
+        "block-1769030337213",
+        "block-1769029932596",
+        "block-1769031588310",
+        "block-1769031157610",
+        "block-1734375983924",
+        "block-1730822782106"
+      ]
+    }
+  },
+  "block-1720906276470": {
+    "type": "Image",
+    "data": {
+      "style": {
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "right": 24,
+          "left": 24
+        },
+        "backgroundColor": "#f58a14"
+      },
+      "props": {
+        "url": "https://www.riksteatern.se/globalassets/lokal/riksteatern-skane/kavlinge-riksteaterforening/RT_kavlinge_vit.png",
+        "alt": "Sample product",
+        "linkHref": null,
+        "contentAlignment": "middle"
+      }
+    }
+  },
+  "block-1720947399046": {
+    "type": "Text",
+    "data": {
+      "style": {
+        "fontSize": 23,
+        "fontFamily": "MODERN_SANS",
+        "fontWeight": "bold",
+        "textAlign": "center",
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "right": 24,
+          "left": 24
+        }
+      },
+      "props": {
+        "markdown": true,
+        "text": "Kävlinge Riksteaterförening arrangerar en bussresa för medlemmar till Malmö Opera för att se Joyride The Musical."
+      }
+    }
+  },
+  "block-1720949447767": {
+    "type": "Text",
+    "data": {
+      "style": {
+        "fontSize": 27,
+        "fontWeight": "normal",
+        "textAlign": "center",
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "right": 24,
+          "left": 24
+        }
+      },
+      "props": {
+        "markdown": true,
+        "text": "Till medlemmar i Kävlinge Riksteaterförening"
+      }
+    }
+  },
+  "block-1730822782106": {
+    "type": "ColumnsContainer",
+    "data": {
+      "style": {
+        "padding": {
+          "top": 4,
+          "bottom": 4,
+          "right": 4,
+          "left": 4
+        }
+      },
+      "props": {
+        "columnsCount": 3,
+        "columnsGap": 16,
+        "columns": [
+          {
+            "childrenIds": [
+              "block-1730822795424"
+            ]
+          },
+          {
+            "childrenIds": [
+              "block-1730822813985"
+            ]
+          },
+          {
+            "childrenIds": [
+              "block-1730823952098"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "block-1730822795424": {
+    "type": "Image",
+    "data": {
+      "style": {
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "right": 16,
+          "left": 16
+        },
+        "textAlign": "center"
+      },
+      "props": {
+        "width": 100,
+        "height": 100,
+        "url": "https://www.riksteatern.se/globalassets/lokal/riksteatern-skane/kavlinge-riksteaterforening/Facebook_Logo_Primary.png",
+        "alt": "Facebook",
+        "linkHref": "https://www.facebook.com/KavlingeRiksteaterforening/",
+        "contentAlignment": "middle"
+      }
+    }
+  },
+  "block-1730822813985": {
+    "type": "Image",
+    "data": {
+      "style": {
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "right": 16,
+          "left": 16
+        },
+        "textAlign": "center"
+      },
+      "props": {
+        "width": 100,
+        "height": 100,
+        "url": "https://www.riksteatern.se/globalassets/lokal/riksteatern-skane/kavlinge-riksteaterforening/Instagram_Glyph_Gradient.png",
+        "alt": "Instagram",
+        "linkHref": "https://www.instagram.com/kavlingeriksteaterforening",
+        "contentAlignment": "middle"
+      }
+    }
+  },
+  "block-1730823952098": {
+    "type": "Image",
+    "data": {
+      "style": {
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "right": 16,
+          "left": 16
+        },
+        "textAlign": "center"
+      },
+      "props": {
+        "width": 100,
+        "height": 100,
+        "url": "https://www.riksteatern.se/globalassets/lokal/riksteatern-skane/kavlinge-riksteaterforening/www_icon.png",
+        "alt": "Hemsida",
+        "linkHref": "https://www.riksteatern.se/kavlinge",
+        "contentAlignment": "middle"
+      }
+    }
+  },
+  "block-1730886315477": {
+    "type": "Image",
+    "data": {
+      "style": {
+        "padding": {
+          "top": 0,
+          "bottom": 0,
+          "right": 0,
+          "left": 0
+        }
+      },
+      "props": {
+        "url": "https://www.riksteatern.se/globalassets/lokal/riksteatern-skane/kavlinge-riksteaterforening/Extas-Foto-Sara-P-Borgstrom-01.jpg",
+        "alt": "Bild 1",
+        "linkHref": "https://www.riksteatern.se/globalassets/lokal/riksteatern-skane/kavlinge-riksteaterforening/Extas-Foto-Sara-P-Borgstrom-01.jpg",
+        "contentAlignment": "middle"
+      }
+    }
+  },
+  "block-1730886345093": {
+    "type": "Image",
+    "data": {
+      "style": {
+        "padding": {
+          "top": 0,
+          "bottom": 0,
+          "right": 0,
+          "left": 0
+        }
+      },
+      "props": {
+        "url": "https://www.riksteatern.se/globalassets/lokal/riksteatern-skane/kavlinge-riksteaterforening/Extas-Foto-Sara-P-Borgstrom-02.jpg",
+        "alt": "Bild 2",
+        "linkHref": "https://www.riksteatern.se/globalassets/lokal/riksteatern-skane/kavlinge-riksteaterforening/Extas-Foto-Sara-P-Borgstrom-02.jpg",
+        "contentAlignment": "middle"
+      }
+    }
+  },
+  "block-1730886369820": {
+    "type": "Image",
+    "data": {
+      "style": {
+        "padding": {
+          "top": 0,
+          "bottom": 0,
+          "right": 0,
+          "left": 0
+        }
+      },
+      "props": {
+        "url": "https://www.riksteatern.se/globalassets/lokal/riksteatern-skane/kavlinge-riksteaterforening/Extas-Foto-Sara-P-Borgstrom-03.jpg",
+        "alt": "bild 3",
+        "linkHref": "https://www.riksteatern.se/globalassets/lokal/riksteatern-skane/kavlinge-riksteaterforening/Extas-Foto-Sara-P-Borgstrom-03.jpg",
+        "contentAlignment": "middle"
+      }
+    }
+  },
+  "block-1734375702098": {
+    "type": "Divider",
+    "data": {
+      "style": {
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "right": 0,
+          "left": 0
+        }
+      },
+      "props": {
+        "lineColor": "#CCCCCC"
+      }
+    }
+  },
+  "block-1734375983924": {
+    "type": "Divider",
+    "data": {
+      "style": {
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "right": 0,
+          "left": 0
+        }
+      },
+      "props": {
+        "lineColor": "#CCCCCC"
+      }
+    }
+  },
+  "block-1765024806572": {
+    "type": "Image",
+    "data": {
+      "style": {
+        "padding": {
+          "top": 4,
+          "bottom": 4,
+          "right": 4,
+          "left": 4
+        }
+      },
+      "props": {
+        "url": "https://www.riksteatern.se/globalassets/lokal/riksteatern-skane/kavlinge-riksteaterforening/topp-joyride26.jpeg",
+        "alt": "Sample product",
+        "linkHref": null,
+        "contentAlignment": "middle"
+      }
+    }
+  },
+  "block-1765293054958": {
+    "type": "Divider",
+    "data": {
+      "style": {
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "right": 0,
+          "left": 0
+        }
+      },
+      "props": {
+        "lineColor": "#CCCCCC"
+      }
+    }
+  },
+  "block-1765398547804": {
+    "type": "Heading",
+    "data": {
+      "props": {
+        "text": "Bussresa 18 nov",
+        "level": "h1"
+      },
+      "style": {
+        "fontFamily": "MODERN_SANS",
+        "fontWeight": "bold",
+        "textAlign": "center",
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "right": 24,
+          "left": 24
+        }
+      }
+    }
+  },
+  "block-1765398702293": {
+    "type": "Text",
+    "data": {
+      "style": {
+        "fontFamily": "MODERN_SANS",
+        "fontWeight": "normal",
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "right": 24,
+          "left": 24
+        }
+      },
+      "props": {
+        "markdown": true,
+        "text": "Tillsammans med PRO Kävlinge/Löddeköpinge har vi hyrt en buss som tar oss till Malmö Opera för att se Joyride The Musical den 18 november. Det är ett paketpris med bussresa t/r, mat och föreställningen. Maten är kallskuret med lax, rostbiff, ost och fransk potatissallad samt kaffe och kaka efter maten. Ingen bokad servering i pausen. Paketpriset är **1180** kr.\n\nVi har biljetter på raderna 14, 15, 16 och 17. Vi har 25 platser.\n\nBussen avgår från Torget i Kävlinge kl **16:45** och Torget Löddeköpinge Centrum kl **17:00**. Maten serveras kl 18:00 i foajén och föreställningen börjar kl 19:00."
+      }
+    }
+  },
+  "block-1769029796993": {
+    "type": "Button",
+    "data": {
+      "style": {
+        "fontSize": 24,
+        "fontFamily": "MODERN_SANS",
+        "fontWeight": "bold",
+        "textAlign": "center",
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "right": 24,
+          "left": 24
+        }
+      },
+      "props": {
+        "buttonBackgroundColor": "#f58a14",
+        "buttonStyle": "pill",
+        "fullWidth": false,
+        "size": "large",
+        "text": "Klicka här för att köpa biljett",
+        "url": "https://secure.tickster.com/sv/wpg400mt4wn01c8/products"
+      }
+    }
+  },
+  "block-1769029932596": {
+    "type": "Text",
+    "data": {
+      "style": {
+        "fontFamily": "MODERN_SANS",
+        "fontWeight": "normal",
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "right": 24,
+          "left": 24
+        }
+      },
+      "props": {
+        "markdown": true,
+        "text": "Feelgood-musikalen Joyride the Musical, med musik av legendariska popduon Roxette, hade världspremiär på Malmö Opera 2024. Hösten 2026 kommer succén tillbaka. C’mon rejoin the joyride!\n\nIngen kan ha missat supersuccén Joyride the Musical – en av Malmö Operas största publikframgångar någonsin. \n\nDe nära 120 000 biljetterna sålde snabbt slut och efterfrågan har vida överstigit tillgången.\n\nMusikalen är en oförglömlig bergochdalbana full av glädje, humor och storslagna dansnummer. En fartfylld, rolig och rörande berättelse om kärlek och relationer.\n\nHandlingen kretsar kring Stephanie, som jobbar som stylist och lever i London tillsammans med Joe och deras tonårsdotter Stella.  Musikalen har fått fantastiska recensioner och föreställningarna har slutat med öronbedövande jubel och dans i stolsraderna.\nMer information hittar du på [Malmö Opera](https://www.malmoopera.se/forestallningar/joyride-musical)"
+      }
+    }
+  },
+  "block-1769030113572": {
+    "type": "Divider",
+    "data": {
+      "style": {
+        "padding": {
+          "top": 16,
+          "right": 0,
+          "bottom": 16,
+          "left": 0
+        }
+      },
+      "props": {
+        "lineColor": "#CCCCCC"
+      }
+    }
+  },
+  "block-1769030117093": {
+    "type": "Text",
+    "data": {
+      "style": {
+        "fontFamily": "MODERN_SANS",
+        "fontWeight": "normal",
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "right": 24,
+          "left": 24
+        }
+      },
+      "props": {
+        "markdown": true,
+        "text": "I och med att det är ett unikt erbjudande till medlemmar i Kävlinge Riksteaterförening säljs biljetter via Tickster på adressen\nhttps://secure.tickster.com/sv/wpg400mt4wn01c8/products \nNi kommer till denna adress om ni klickar på knappen nedan."
+      }
+    }
+  },
+  "block-1769030337213": {
+    "type": "Heading",
+    "data": {
+      "props": {
+        "text": "Joyride the musical"
+      },
+      "style": {
+        "color": "#FAFAFA",
+        "backgroundColor": "#1359d8",
+        "fontFamily": "MODERN_SANS",
+        "textAlign": "center",
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "right": 24,
+          "left": 24
+        }
+      }
+    }
+  },
+  "block-1769031157610": {
+    "type": "Button",
+    "data": {
+      "style": {
+        "fontSize": 23,
+        "fontFamily": "MODERN_SANS",
+        "textAlign": "center",
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "right": 24,
+          "left": 24
+        }
+      },
+      "props": {
+        "buttonBackgroundColor": "#1359d8",
+        "buttonStyle": "pill",
+        "text": "Hämta utskriftsvänligt dokument",
+        "url": "https://www.riksteatern.se/globalassets/lokal/riksteatern-skane/kavlinge-riksteaterforening/prospekt_Joyride.pdf"
+      }
+    }
+  },
+  "block-1769031534023": {
+    "type": "Heading",
+    "data": {
+      "props": {
+        "text": "Biljetter"
+      },
+      "style": {
+        "fontFamily": "MODERN_SANS",
+        "textAlign": "center",
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "right": 24,
+          "left": 24
+        }
+      }
+    }
+  },
+  "block-1769031574277": {
+    "type": "Divider",
+    "data": {
+      "style": {
+        "padding": {
+          "top": 16,
+          "right": 0,
+          "bottom": 16,
+          "left": 0
+        }
+      },
+      "props": {
+        "lineColor": "#CCCCCC"
+      }
+    }
+  },
+  "block-1769031588310": {
+    "type": "Divider",
+    "data": {
+      "style": {
+        "padding": {
+          "top": 16,
+          "right": 0,
+          "bottom": 16,
+          "left": 0
+        }
+      },
+      "props": {
+        "lineColor": "#CCCCCC"
+      }
+    }
+  }
+}
