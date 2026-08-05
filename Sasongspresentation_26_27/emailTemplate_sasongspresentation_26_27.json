@@ -288,7 +288,7 @@
           "right": 0,
           "left": 0
         },
-        "backgroundColor": null,
+        "backgroundColor": "#f38cfc",
         "textAlign": "center"
       },
       "props": {
@@ -316,7 +316,7 @@
         }
       },
       "props": {
-        "text": "Spelas den 8 augusti kl 16:00 på Lallerstedtska huset i Kävlinge.§"
+        "text": "Spelas den 8 augusti kl 16:00 på Lallerstedtska huset i Kävlinge."
       }
     }
   },
