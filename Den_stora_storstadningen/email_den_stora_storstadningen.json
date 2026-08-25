@@ -49,15 +49,15 @@
         "fontWeight": "normal",
         "textAlign": "center",
         "padding": {
-          "top": 16,
-          "bottom": 16,
+          "top": 8,
+          "bottom": 8,
           "right": 24,
           "left": 24
         }
       },
       "props": {
         "markdown": true,
-        "text": "Presenterar familjeföreställningen\n**Den stora storstädningen**\n20 september 14:00, Lallerstedtska huset i Kävlinge"
+        "text": "Presenterar familjeföreställningen\n\n**Den stora storstädningen**\n20 september 14:00, Lallerstedtska huset i Kävlinge\nEntré 50 kr."
       }
     }
   },
@@ -279,6 +279,7 @@
     "data": {
       "style": {
         "backgroundColor": "#FD9802",
+        "fontSize": 18,
         "fontFamily": "MODERN_SANS",
         "fontWeight": "normal",
         "padding": {
