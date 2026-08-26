@@ -65,19 +65,19 @@
     "type": "Text",
     "data": {
       "style": {
-        "fontSize": 27,
+        "fontSize": 10,
         "fontWeight": "normal",
         "textAlign": "center",
         "padding": {
-          "top": 16,
-          "bottom": 16,
-          "right": 24,
-          "left": 24
+          "top": 0,
+          "bottom": 0,
+          "right": 0,
+          "left": 0
         }
       },
       "props": {
         "markdown": true,
-        "text": "Till medlemmar i Kävlinge Riksteaterförening"
+        "text": "[Se webbversionen](https://charming-paletas-deb52d.netlify.app/den_stora_storstadningen/)"
       }
     }
   },
