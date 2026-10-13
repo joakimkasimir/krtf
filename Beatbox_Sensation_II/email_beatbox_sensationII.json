@@ -1,0 +1,341 @@
+{
+  "root": {
+    "type": "EmailLayout",
+    "data": {
+      "backdropColor": "#F5F5F5",
+      "canvasColor": "#FFFFFF",
+      "textColor": "#262626",
+      "fontFamily": "MODERN_SANS",
+      "childrenIds": [
+        "block-1720949447767",
+        "block-1720906276470",
+        "block-1720947399046",
+        "block-1765024806572",
+        "block-1765398702293",
+        "block-1787061357947",
+        "block-1787061227779",
+        "block-1734375983924",
+        "block-1730822782106"
+      ]
+    }
+  },
+  "block-1720906276470": {
+    "type": "Image",
+    "data": {
+      "style": {
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "right": 24,
+          "left": 24
+        },
+        "backgroundColor": "#e5d4d4"
+      },
+      "props": {
+        "url": "https://www.riksteatern.se/globalassets/lokal/riksteatern-skane/kavlinge-riksteaterforening/RT_kavlinge_svart.png",
+        "alt": "Kävlinge Riksteaterförening",
+        "linkHref": null,
+        "contentAlignment": "middle"
+      }
+    }
+  },
+  "block-1720947399046": {
+    "type": "Text",
+    "data": {
+      "style": {
+        "color": "#FAFAFA",
+        "backgroundColor": "#b47487",
+        "fontSize": 22,
+        "fontFamily": "MODERN_SANS",
+        "fontWeight": "normal",
+        "textAlign": "center",
+        "padding": {
+          "top": 8,
+          "bottom": 8,
+          "right": 24,
+          "left": 24
+        }
+      },
+      "props": {
+        "markdown": true,
+        "text": "Presenterar\n\n**Beatbox Sensation II**\n17 oktober 16:00, Lallerstedtska huset i Kävlinge\nEntré 60-200 kr."
+      }
+    }
+  },
+  "block-1720949447767": {
+    "type": "Text",
+    "data": {
+      "style": {
+        "fontSize": 10,
+        "fontWeight": "normal",
+        "textAlign": "center",
+        "padding": {
+          "top": 0,
+          "bottom": 0,
+          "right": 0,
+          "left": 0
+        }
+      },
+      "props": {
+        "markdown": true,
+        "text": "[Se webbversionen](https://charming-paletas-deb52d.netlify.app/Beatbox_Sensation_II/)"
+      }
+    }
+  },
+  "block-1730822782106": {
+    "type": "ColumnsContainer",
+    "data": {
+      "style": {
+        "padding": {
+          "top": 4,
+          "bottom": 4,
+          "right": 4,
+          "left": 4
+        }
+      },
+      "props": {
+        "columnsCount": 3,
+        "columnsGap": 16,
+        "columns": [
+          {
+            "childrenIds": [
+              "block-1730822795424"
+            ]
+          },
+          {
+            "childrenIds": [
+              "block-1730822813985"
+            ]
+          },
+          {
+            "childrenIds": [
+              "block-1730823952098"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "block-1730822795424": {
+    "type": "Image",
+    "data": {
+      "style": {
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "right": 16,
+          "left": 16
+        },
+        "textAlign": "center"
+      },
+      "props": {
+        "width": 100,
+        "height": 100,
+        "url": "https://www.riksteatern.se/globalassets/lokal/riksteatern-skane/kavlinge-riksteaterforening/Facebook_Logo_Primary.png",
+        "alt": "Facebook",
+        "linkHref": "https://www.facebook.com/KavlingeRiksteaterforening/",
+        "contentAlignment": "middle"
+      }
+    }
+  },
+  "block-1730822813985": {
+    "type": "Image",
+    "data": {
+      "style": {
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "right": 16,
+          "left": 16
+        },
+        "textAlign": "center"
+      },
+      "props": {
+        "width": 100,
+        "height": 100,
+        "url": "https://www.riksteatern.se/globalassets/lokal/riksteatern-skane/kavlinge-riksteaterforening/Instagram_Glyph_Gradient.png",
+        "alt": "Instagram",
+        "linkHref": "https://www.instagram.com/kavlingeriksteaterforening",
+        "contentAlignment": "middle"
+      }
+    }
+  },
+  "block-1730823952098": {
+    "type": "Image",
+    "data": {
+      "style": {
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "right": 16,
+          "left": 16
+        },
+        "textAlign": "center"
+      },
+      "props": {
+        "width": 100,
+        "height": 100,
+        "url": "https://www.riksteatern.se/globalassets/lokal/riksteatern-skane/kavlinge-riksteaterforening/www_icon.png",
+        "alt": "Hemsida",
+        "linkHref": "https://www.riksteatern.se/kavlinge",
+        "contentAlignment": "middle"
+      }
+    }
+  },
+  "block-1730886315477": {
+    "type": "Image",
+    "data": {
+      "style": {
+        "padding": {
+          "top": 0,
+          "bottom": 0,
+          "right": 0,
+          "left": 0
+        }
+      },
+      "props": {
+        "url": "https://www.riksteatern.se/globalassets/lokal/riksteatern-skane/kavlinge-riksteaterforening/Extas-Foto-Sara-P-Borgstrom-01.jpg",
+        "alt": "Bild 1",
+        "linkHref": "https://www.riksteatern.se/globalassets/lokal/riksteatern-skane/kavlinge-riksteaterforening/Extas-Foto-Sara-P-Borgstrom-01.jpg",
+        "contentAlignment": "middle"
+      }
+    }
+  },
+  "block-1730886345093": {
+    "type": "Image",
+    "data": {
+      "style": {
+        "padding": {
+          "top": 0,
+          "bottom": 0,
+          "right": 0,
+          "left": 0
+        }
+      },
+      "props": {
+        "url": "https://www.riksteatern.se/globalassets/lokal/riksteatern-skane/kavlinge-riksteaterforening/Extas-Foto-Sara-P-Borgstrom-02.jpg",
+        "alt": "Bild 2",
+        "linkHref": "https://www.riksteatern.se/globalassets/lokal/riksteatern-skane/kavlinge-riksteaterforening/Extas-Foto-Sara-P-Borgstrom-02.jpg",
+        "contentAlignment": "middle"
+      }
+    }
+  },
+  "block-1730886369820": {
+    "type": "Image",
+    "data": {
+      "style": {
+        "padding": {
+          "top": 0,
+          "bottom": 0,
+          "right": 0,
+          "left": 0
+        }
+      },
+      "props": {
+        "url": "https://www.riksteatern.se/globalassets/lokal/riksteatern-skane/kavlinge-riksteaterforening/Extas-Foto-Sara-P-Borgstrom-03.jpg",
+        "alt": "bild 3",
+        "linkHref": "https://www.riksteatern.se/globalassets/lokal/riksteatern-skane/kavlinge-riksteaterforening/Extas-Foto-Sara-P-Borgstrom-03.jpg",
+        "contentAlignment": "middle"
+      }
+    }
+  },
+  "block-1734375983924": {
+    "type": "Divider",
+    "data": {
+      "style": {
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "right": 0,
+          "left": 0
+        }
+      },
+      "props": {
+        "lineColor": "#CCCCCC"
+      }
+    }
+  },
+  "block-1765024806572": {
+    "type": "Image",
+    "data": {
+      "style": {
+        "padding": {
+          "top": 0,
+          "bottom": 0,
+          "right": 0,
+          "left": 0
+        },
+        "backgroundColor": "#B9EDEB"
+      },
+      "props": {
+        "url": "https://www.riksteatern.se/globalassets/lokal/riksteatern-skane/kavlinge-riksteaterforening/BeatboxSensation_II.jpg",
+        "alt": "arrangemang",
+        "linkHref": "https://www.riksteatern.se/kavlinge",
+        "contentAlignment": "middle"
+      }
+    }
+  },
+  "block-1765398702293": {
+    "type": "Text",
+    "data": {
+      "style": {
+        "backgroundColor": "#8EAFBD",
+        "fontSize": 18,
+        "fontFamily": "MODERN_SANS",
+        "fontWeight": "normal",
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "right": 24,
+          "left": 24
+        }
+      },
+      "props": {
+        "markdown": true,
+        "text": "Beatboxare kan göra både coola, häftiga och roliga ljud, de förmår att använda sin stämma till att forma musikinstrument på en fantasifullt sätt, och göra det till något helt särskilt tillsammans med breakdansarna.\nFöreställ dig en röst som förvandlas till trummor, bas och melodier. Ett helt ljudlandskap byggt utan instrument. Ja, förutom dit egna anatomiska instrument.\n\nI BEATBOX SENSATION II möts beatbox, rap, sång, breakdance och streetdance i en kraftfull dialog mellan just ljud och rörelse.\n\nBeatboxarna skapar rytmer och melodier enbart med sin röst, medan dansarna svarar med att tolka musiken i sina rörelser. Tillsammans bygger de en levande konversation på scen, där publiken bjuds in att delta genom interaktiva inslag som klassisk \"call & response\"\n\nMedverkande\nBeatboxare: Maurizio Addone & Philip Nordström\nDansare: Viktoria Lie, Arturo Molina & Ferhat Dûz\n\nKonstnärligt team\nProduktion: Freestyle Phanatix\nMusik: Maurizio Addone\n\nProducent\nFreestyle Phanatix"
+      }
+    }
+  },
+  "block-1787061227779": {
+    "type": "Image",
+    "data": {
+      "style": {
+        "padding": {
+          "top": 4,
+          "bottom": 4,
+          "right": 4,
+          "left": 4
+        },
+        "backgroundColor": "#E5E5E5",
+        "textAlign": "center"
+      },
+      "props": {
+        "url": "https://www.riksteatern.se/globalassets/lokal/riksteatern-skane/kavlinge-riksteaterforening/Mina_sidor.png",
+        "alt": "Mina sidor",
+        "linkHref": "https://www.riksteatern.se/mina-sidor/hem/?oid=4303",
+        "contentAlignment": "middle"
+      }
+    }
+  },
+  "block-1787061357947": {
+    "type": "Text",
+    "data": {
+      "style": {
+        "backgroundColor": "#E5E5E5",
+        "fontFamily": "MODERN_SANS",
+        "fontWeight": "normal",
+        "textAlign": "center",
+        "padding": {
+          "top": 24,
+          "bottom": 4,
+          "right": 24,
+          "left": 24
+        }
+      },
+      "props": {
+        "markdown": true,
+        "text": "Du vet väl att Scenpasset är digitalt numera. Efter att du har loggat in på **Mina sidor** visas scenpasset och där hittar du även medlemsförmåner. Klicka på bilden nedan för att logga in."
+      }
+    }
+  }
+}
